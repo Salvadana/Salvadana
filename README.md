@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Salvadana
-- 👀 I’m interested in Digital Humanities
-- 🌱 I’m currently learning programming 
+- 👀 I’m interested in Digital Humanities, Computational Linguistics and Ontologies
+- 🌱 I’m currently learning Python, Javascript, HTML, CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
