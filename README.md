@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @Salvadana
 
-- 🌱 I’m currently diving into Python, SQL, SPARQL, OWL, Javascript, HTML and CSS
+- 🌱 I’m currently attending the Master's Degree in Digital Humanities and Digital Knowledge at University of Bologna.
 - <p> 📫 How to reach me: <a href="mailto:loredana.salvatore@studio.unibo.it">loredana.salvatore@studio.unibo.it</a></p>
 
 <!---
