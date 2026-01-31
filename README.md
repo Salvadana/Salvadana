@@ -4,7 +4,8 @@
 
 - 👋 Hi, I’m @Salvadana
 
-- 🌱 I’m currently attending the Master's Degree in Digital Humanities and Digital Knowledge at University of Bologna.
+- 🌱 Junior Software Developer
+- 🎓 Graduated with honors in Digital Humanities and Digital Knowledge (MA) at University of Bologna.
 - <p> 📫 How to reach me: <a href="mailto:loredana.salvatore@studio.unibo.it">loredana.salvatore@studio.unibo.it</a></p>
 
 <!---
